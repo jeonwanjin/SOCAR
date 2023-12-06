@@ -1,5 +1,9 @@
 
 import './footer.css';
+import instagram from '../img/instagram.813fc6b3.svg';
+import facebook from '../img/facebook.b7383cd7.svg';
+import youtube from '../img/youtube.468e7f75.svg';
+import blog from '../img/blog.e15e4213.svg';
 
 function Myfooter() {
 
@@ -11,22 +15,22 @@ function Myfooter() {
                         <div className="logo-f">SOCAR</div>
                         <div className="icon_box">
                             <div className='icon_box_bg'>
-                                <img src="img/instagram.813fc6b3.svg"></img>
+                                <img src={instagram}></img>
                             </div>    
                             <div className='icon_box_bg'>
-                                <img src="img/facebook.b7383cd7.svg"></img>
+                                <img src={facebook}></img>
                             </div>    
                             <div className='icon_box_bg'>
-                                <img src="img/youtube.468e7f75.svg"></img>
+                                <img src={youtube}></img>
                             </div>    
                             <div className='icon_box_bg'>
-                                <img src="img/blog.e15e4213.svg"></img>
+                                <img src={blog}></img>
                             </div>                  
                         </div>
                     </div>
              
                     <div className="txt2">
-                        <ul>
+                        <ul>y
                             <li>문의하기</li>
                             <li>오시는 길</li>
                             <li>개인정보처리방침</li>          

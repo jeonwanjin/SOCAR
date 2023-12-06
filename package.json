@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jeonwanjin.github.io/SOCAR/"
+  "homepage": "https://jeonwanjin.github.io/SOCAR/",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
 }

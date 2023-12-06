@@ -1,5 +1,4 @@
 import './App.css';
-import $ from 'jquery';
 import Myheader from './components/header';
 import Mysection from './components/section';
 import Myfooter from './components/footer';

@@ -1,7 +1,7 @@
 
 import './header.css';
-
-
+import Video from '../videos/main_video.mp4';
+import scrollDown from '../img/scrollDown.76bc1872.svg';
 
 
 
@@ -12,7 +12,7 @@ function Myheader() {
         <header>
                 <div className="header_wrap">   
                             <video muted autoPlay loop type="video/mp4" >
-                                <source src="/videos/main_video.mp4"></source>
+                                <source src={Video} type="video/mp4" />
                             </video>
                             <div className="nav">
                                 <div className="logo">SOCAR</div>
@@ -32,7 +32,7 @@ function Myheader() {
                                 </p>
                                 <div className='scroll_btn'>
                                     <div className='sc_img'>
-                                        <img src='img/scrollDown.76bc1872.svg'></img>
+                                        <img src={scrollDown} alt='scrollDown'></img>
                                     </div>
                                     <span>scroll</span> 
                                 </div>

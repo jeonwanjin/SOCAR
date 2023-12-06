@@ -10,7 +10,7 @@ function Mysection(props) {
         <section className="section box">
             <div>
                 <div className="section_wrap">   
-                    <img className={props.imgstyle} src={props.img1}></img>
+                    <img className={props.imgstyle} src={props.img1} alt='props.img1'></img>
                     <h2 className="sec_h2">{props.title}</h2>
                     <div className="sec_span">
                         <span className={props.spanstyle}>{props.span1}</span><br></br>
