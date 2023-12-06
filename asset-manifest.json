@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/SOCAR/static/css/main.5c68d35b.css",
-    "main.js": "/SOCAR/static/js/main.ef96151a.js",
+    "main.js": "/SOCAR/static/js/main.d06d1f9b.js",
     "static/js/787.a2d3872a.chunk.js": "/SOCAR/static/js/787.a2d3872a.chunk.js",
+    "static/media/main_video.mp4": "/SOCAR/static/media/main_video.f6232f71c46f4c88a0de.mp4",
     "static/media/main_fourth.png": "/SOCAR/static/media/main_fourth.194adc322926bdc7269f.png",
     "static/media/main_third.png": "/SOCAR/static/media/main_third.096dcc071aff273edea8.png",
     "static/media/main_second.png": "/SOCAR/static/media/main_second.9b8d89d821e5a5229160.png",
+    "static/media/instagram.813fc6b3.svg": "/SOCAR/static/media/instagram.813fc6b3.2791c1477d13610a8b157288cf56c12c.svg",
     "index.html": "/SOCAR/index.html",
+    "static/media/blog.e15e4213.svg": "/SOCAR/static/media/blog.e15e4213.2c613a9f8d35b02e3e46afc748593afa.svg",
+    "static/media/facebook.b7383cd7.svg": "/SOCAR/static/media/facebook.b7383cd7.d57affb17aa667d045d42164161b3ce7.svg",
+    "static/media/scrollDown.76bc1872.svg": "/SOCAR/static/media/scrollDown.76bc1872.909f191959cdc3d43a7ce6ea84fa8e2d.svg",
+    "static/media/youtube.468e7f75.svg": "/SOCAR/static/media/youtube.468e7f75.5d2f605c636d5817aeafc09a74adca6a.svg",
     "main.5c68d35b.css.map": "/SOCAR/static/css/main.5c68d35b.css.map",
-    "main.ef96151a.js.map": "/SOCAR/static/js/main.ef96151a.js.map",
+    "main.d06d1f9b.js.map": "/SOCAR/static/js/main.d06d1f9b.js.map",
     "787.a2d3872a.chunk.js.map": "/SOCAR/static/js/787.a2d3872a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c68d35b.css",
-    "static/js/main.ef96151a.js"
+    "static/js/main.d06d1f9b.js"
   ]
 }
