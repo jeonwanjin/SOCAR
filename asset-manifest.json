@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SOCAR/static/css/main.5c68d35b.css",
+    "main.js": "/SOCAR/static/js/main.ef96151a.js",
+    "static/js/787.a2d3872a.chunk.js": "/SOCAR/static/js/787.a2d3872a.chunk.js",
+    "static/media/main_fourth.png": "/SOCAR/static/media/main_fourth.194adc322926bdc7269f.png",
+    "static/media/main_third.png": "/SOCAR/static/media/main_third.096dcc071aff273edea8.png",
+    "static/media/main_second.png": "/SOCAR/static/media/main_second.9b8d89d821e5a5229160.png",
+    "index.html": "/SOCAR/index.html",
+    "main.5c68d35b.css.map": "/SOCAR/static/css/main.5c68d35b.css.map",
+    "main.ef96151a.js.map": "/SOCAR/static/js/main.ef96151a.js.map",
+    "787.a2d3872a.chunk.js.map": "/SOCAR/static/js/787.a2d3872a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c68d35b.css",
+    "static/js/main.ef96151a.js"
+  ]
+}
